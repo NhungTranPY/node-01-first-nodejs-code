@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/NhungTranPY/node-01-first-nodejs-code#readme",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.18.2"
   }
 }
